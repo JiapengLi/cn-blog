@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://JiapengLi.github.io/cn-blog/sitemap.xml 
