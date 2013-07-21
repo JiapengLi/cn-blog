@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://JiapengLi.github.io/cn-blog/sitemap.xml 
+Sitemap: http://page.morlk.com/sitemap.xml 
