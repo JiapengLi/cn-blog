@@ -1,23 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://page.morlk.com/2013/05/25/start/</loc>
+        <loc>http://cn.jiapeng.me/2013/05/25/start/</loc>
         <lastmod>2013-07-21T15:31:50+08:00</lastmod>
     </url>
     <url>
-        <loc>http://page.morlk.com/2013/05/29/dmcnxse/</loc>
+        <loc>http://cn.jiapeng.me/2013/05/29/dmcnxse/</loc>
         <lastmod>2013-07-21T14:46:30+08:00</lastmod>
     </url>
     <url>
-        <loc>http://page.morlk.com/blog/archives/</loc>
+        <loc>http://cn.jiapeng.me/blog/archives/</loc>
         <lastmod>2013-07-21T15:31:50+08:00</lastmod>
     </url>
     <url>
-        <loc>http://page.morlk.com/</loc>
+        <loc>http://cn.jiapeng.me/CNAME</loc>
+        <lastmod>2013-07-21T20:22:58+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cn.jiapeng.me/</loc>
         <lastmod>2013-07-21T15:31:50+08:00</lastmod>
     </url>
     <url>
-        <loc>http://page.morlk.com/robots.txt</loc>
+        <loc>http://cn.jiapeng.me/robots.txt</loc>
         <lastmod>2013-07-18T16:00:35+08:00</lastmod>
     </url>
 </urlset>

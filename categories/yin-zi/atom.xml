@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[引子 | 木田小站]]></title>
-  <link href="http://page.morlk.com/categories/yin-zi/atom.xml" rel="self"/>
-  <link href="http://page.morlk.com/"/>
-  <updated>2013-07-21T19:44:35+08:00</updated>
-  <id>http://page.morlk.com/</id>
+  <link href="http://cn.jiapeng.me/categories/yin-zi/atom.xml" rel="self"/>
+  <link href="http://cn.jiapeng.me/"/>
+  <updated>2013-07-21T20:30:27+08:00</updated>
+  <id>http://cn.jiapeng.me/</id>
   <author>
     <name><![CDATA[JiapengLi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[博客伊始]]></title>
-    <link href="http://page.morlk.com/2013/05/25/start/"/>
+    <link href="http://cn.jiapeng.me/2013/05/25/start/"/>
     <updated>2013-05-25T00:00:00+08:00</updated>
-    <id>http://page.morlk.com/2013/05/25/start</id>
+    <id>http://cn.jiapeng.me/2013/05/25/start</id>
     <content type="html"><![CDATA[<h2>写在最前</h2>
 
 <p>青春几多，燃尽了作罢。嬉笑怒骂，痴语疯言，赠予来人观。</p>
