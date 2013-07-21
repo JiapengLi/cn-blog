@@ -1,6 +1,6 @@
 # 中文博客
 
-<http://page.morlk.com>
+<http://cn.jiapeng.me>
 
 ## 使用Octopress工具搭建
 官网：<http://octopress.org>  
