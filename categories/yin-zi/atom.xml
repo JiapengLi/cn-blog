@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[引子 | 木田小站]]></title>
+  <title><![CDATA[引子 | Jiapeng's Blog]]></title>
   <link href="http://cn.jiapeng.me/categories/yin-zi/atom.xml" rel="self"/>
   <link href="http://cn.jiapeng.me/"/>
-  <updated>2013-07-21T21:08:51+08:00</updated>
+  <updated>2013-07-21T21:41:49+08:00</updated>
   <id>http://cn.jiapeng.me/</id>
   <author>
     <name><![CDATA[JiapengLi]]></name>
