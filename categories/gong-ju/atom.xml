@@ -4,7 +4,7 @@
   <title><![CDATA[工具 | 木田]]></title>
   <link href="http://cn.jiapeng.me/categories/gong-ju/atom.xml" rel="self"/>
   <link href="http://cn.jiapeng.me/"/>
-  <updated>2013-10-12T00:58:08+08:00</updated>
+  <updated>2013-10-12T01:56:30+08:00</updated>
   <id>http://cn.jiapeng.me/</id>
   <author>
     <name><![CDATA[木田]]></name>
@@ -27,7 +27,7 @@
 
 <p>小乐同学问我怎么利用笔记本创建WiFi热点，供其他WiFi设备使用，网上搜索了一下除了<strong>VirtaulRouter</strong>之外，还有其他几个工具像<a href="http://www.maryfi.com/"><strong>Maryfi</strong></a>、<a href="%E3%80%80http://www.connectify.me/hotspot/"><strong>Connectify Hotspot</strong></a>、<a href="http://pdanet.co/"><strong>padNet</strong></a>等等。<br/>
 没有每个软件都去尝试，只试过其中的Maryfi，但是折腾了一半天失败了，最后用VirtualRouter测试成功。<br/>
-其实比较推荐VirtualRouter的一个原因是由于它是个开源软件。</p>
+比较推荐VirtualRouter的一个很重要原因是由于它是个开源软件。</p>
 
 <h2>什么是VirtualRouter？</h2>
 
