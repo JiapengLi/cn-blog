@@ -4,7 +4,7 @@
   <title><![CDATA[木田]]></title>
   <link href="http://cn.jiapeng.me/atom.xml" rel="self"/>
   <link href="http://cn.jiapeng.me/"/>
-  <updated>2013-10-12T00:31:23+08:00</updated>
+  <updated>2013-10-12T00:52:06+08:00</updated>
   <id>http://cn.jiapeng.me/</id>
   <author>
     <name><![CDATA[木田]]></name>
@@ -23,9 +23,17 @@
 <!-- more -->
 
 
+<h2>前言</h2>
+
+<p>小乐同学问我怎么利用笔记本创建WiFi热点，供其他WiFi设备使用，网上搜索了一下除了<strong>VirtaulRouter</strong>之外，还有其他几个工具像<a href="http://www.maryfi.com/"><strong>Maryfi</strong></a>、<a href="%E3%80%80http://www.connectify.me/hotspot/"><strong>Connectify Hotspot</strong></a>、<a href="http://pdanet.co/"><strong>padNet</strong></a>等等。<br/>
+没有每个软件都去尝试，只试过其中的Maryfi，但是折腾了一半天失败了，最后用VirtualRouter测试成功。<br/>
+其实比较推荐VirtualRouter的一个原因是由于它是个开源软件。</p>
+
 <h2>什么是VirtualRouter？</h2>
 
-<p>VirtualRouter是一款自由、免费、开源的虚拟路由器的软件，可以运行在Windows8、Windows7、Windows Server 2008 R2平台。通过VirtualRouter，用户可以通过无线的方式与其他WIFI设备（笔记本/手机/平板电脑）共享任何互联网连接（WIFI，局域网，ADSL等等）。这些设备可以通过类似WIFI热点的方式连接到VirtualRouter借以访问互联网，其建立的连接使用WPA2加密方式加密，十分安全。（WPA2是当前最安全的无线加密方式）</p>
+<p>VirtualRouter是一款自由、免费、开源的虚拟路由器的软件，可以运行在Windows8、Windows7、Windows Server 2008 R2平台。通过VirtualRouter，用户可以通过无线的方式与其他WIFI设备（笔记本/手机/平板电脑）共享任何互联网连接（WIFI，局域网，ADSL等等）。这些设备可以通过类似WIFI热点的方式连接到VirtualRouter借以访问互联网，其建立的连接使用WPA2加密方式加密，十分安全。</p>
+
+<p><em>Tips：WPA2是当前最安全的无线加密方式。</em></p>
 
 <h2>如何使用</h2>
 
@@ -74,6 +82,8 @@
 <h2>结语</h2>
 
 <p>如果一切顺利，那么，现在你就可以在没有路由的情况下，将笔记本虚拟出一个WiFi热点供手机等其他的WiFi设备使用了。</p>
+
+<p><em>PS: 已经把软件测好了才知晓，这软件原来是小乐同学为</em><em><strong>心上人</strong>**求的呢，没得说，打起十二分精神给弄的妥妥的。另外，远在异国的王同学一切顺利，健康快乐。</em></p>
 ]]></content>
   </entry>
   
