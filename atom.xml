@@ -4,7 +4,7 @@
   <title><![CDATA[木田]]></title>
   <link href="http://cn.jiapeng.me/atom.xml" rel="self"/>
   <link href="http://cn.jiapeng.me/"/>
-  <updated>2013-08-11T00:00:08+08:00</updated>
+  <updated>2013-10-12T00:31:23+08:00</updated>
   <id>http://cn.jiapeng.me/</id>
   <author>
     <name><![CDATA[木田]]></name>
@@ -12,6 +12,70 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[利用VirtualRouter创建WIFI热点]]></title>
+    <link href="http://cn.jiapeng.me/2013/10/11/virtualrouter/"/>
+    <updated>2013-10-11T22:24:00+08:00</updated>
+    <id>http://cn.jiapeng.me/2013/10/11/virtualrouter</id>
+    <content type="html"><![CDATA[<p><em>VirtualRouter——自由、免费、开源的一款能够用来虚拟WiFi热点的软件</em></p>
+
+<!-- more -->
+
+
+<h2>什么是VirtualRouter？</h2>
+
+<p>VirtualRouter是一款自由、免费、开源的虚拟路由器的软件，可以运行在Windows8、Windows7、Windows Server 2008 R2平台。通过VirtualRouter，用户可以通过无线的方式与其他WIFI设备（笔记本/手机/平板电脑）共享任何互联网连接（WIFI，局域网，ADSL等等）。这些设备可以通过类似WIFI热点的方式连接到VirtualRouter借以访问互联网，其建立的连接使用WPA2加密方式加密，十分安全。（WPA2是当前最安全的无线加密方式）</p>
+
+<h2>如何使用</h2>
+
+<ol>
+<li>首先当然是下载软件。<a href="https://virtualrouter.codeplex.com/downloads/get/621827#">下载地址</a></li>
+<li>下载之后双击安装。<br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-01-vr-install.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-02-vr-install.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-03-vr-install.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-04-vr-install.jpg"></li>
+<li>安装完之后VirtualRouter会自动打开，按照图示填写新建WIFI热点的信息，然后点击<strong>Start Virtual Router</strong>。<br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-05-vr-config.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-06-vr-config.jpg"></li>
+<li>如果一切顺利，在无线连接的信息里面应该有类似下图的显示。
+<img src="http://cn.jiapeng.me/images/2013-10-11-07-vr-success.jpg"></li>
+</ol>
+
+
+<h2>出错</h2>
+
+<p>如果遇到了“The group or resource is not in the correct state to perform the requested operation”错误，如下图。<br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-08-vr-error.jpg"><br/>
+请尝试用以下方式解决：</p>
+
+<ol>
+<li>在设备管理器中启用“Microsoft Virtual WiFi Miniport Adapter”。<br/>
+<strong>控制面板</strong>&ndash;><strong>系统和安全</strong>，在弹出的窗口中，找到<strong>系统</strong>一栏下面的<strong>设备管理器</strong>，在打开的窗口中找到<strong>网络适配器</strong>，打开子项目，在“Microsoft Virtual WiFi Miniport Adapter”单击右键，然后点击<strong>启用</strong>。<br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-09-vr-fix-error.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-10-vr-fix-error.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-11-vr-fix-error.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-12-vr-fix-error.jpg"></li>
+<li>在管理员模式下启动cmd.exe，然后执行</li>
+</ol>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>netsh wlan set hostednetwork mode=allow</span></code></pre></td></tr></table></div></figure>
+
+
+<p>具体步骤是，按下键盘上的<strong>Win</strong>键,输入<code>cmd.exe</code>,右键以管理员模式运行，在命令行中粘贴上面提到的命令，然后单击回车。<br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-13-vr-fix-error.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-14-vr-fix-error.jpg"><br/>
+<img src="http://cn.jiapeng.me/images/2013-10-11-15-vr-fix-error.jpg"><br/>
+3. 选择1或2之中的一个方法，执行之后重新点击 <strong>“Start Virtual Router”</strong>。</p>
+
+<h2>结语</h2>
+
+<p>如果一切顺利，那么，现在你就可以在没有路由的情况下，将笔记本虚拟出一个WiFi热点供手机等其他的WiFi设备使用了。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[攻乎奇技 止于异端]]></title>
