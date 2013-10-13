@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[linux | 木田]]></title>
+  <link href="http://cn.jiapeng.me/categories/linux/atom.xml" rel="self"/>
+  <link href="http://cn.jiapeng.me/"/>
+  <updated>2013-10-13T15:54:38+08:00</updated>
+  <id>http://cn.jiapeng.me/</id>
+  <author>
+    <name><![CDATA[木田]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Linux工具软件]]></title>
+    <link href="http://cn.jiapeng.me/2013/10/13/linux/"/>
+    <updated>2013-10-13T13:33:00+08:00</updated>
+    <id>http://cn.jiapeng.me/2013/10/13/linux</id>
+    <content type="html"><![CDATA[<p><em>笔者常用的Linux工具软件</em></p>
+
+<!-- more -->
+
+
+<h2>Shutter</h2>
+
+<p><img class="left" src="/images/13/10/shutter-logo.jpg" width="200" height="200"><br/>
+<a href="http://shutter-project.org/">Shutter</a> 是一款非常优秀的截图软件——区域截图、智能选取窗口截图、全屏截图等很多功能，此外对图片进行简单编辑也是其一个亮点。<strong>（开源）</strong></p>
+
+<br /><br /><br /><br />
+
+
+<h2>Putty</h2>
+
+<p><img class="left" src="/images/13/10/putty-logo.jpg" width="200" height="200"><br/>
+<a href="http://www.putty.org/">PuTTY</a>是一款Telnet、SSH、rlogin、纯TCP以及串行接口连接软件。嵌入式调试的利器。 <strong>（开源/跨平台）</strong></p>
+
+<br /><br /><br /><br />
+
+
+<h2>Sublime Text</h2>
+
+<p><img class="left" src="/images/13/10/sublimetext-logo.jpg" width="200" height="200"><br/>
+<a href="http://www.sublimetext.com">Sublime Text</a>s是一款文本编辑工具，速度很快，界面清新，很多强大的功能。<strong>（商业软件/跨平台/可免费使用(会提示购买)）</strong></p>
+
+<br /><br /><br /><br />
+
+
+<h2>Okular</h2>
+
+<p><img class="left" src="/images/13/10/okular-logo.png" width="200" height="200"><br/>
+<a href="http://okular.kde.org/">Okular</a>一款PDF阅读器。可标记文本，功能优于Ubuntu12.10默认安装的<strong>Document Viewer</strong>。号称Linux下最好的PDF阅读器。<strong>（开源/跨平台）</strong></p>
+
+<br /><br /><br /><br />
+
+
+<hr />
+]]></content>
+  </entry>
+  
+</feed>
